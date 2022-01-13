@@ -26,7 +26,7 @@ numpy==1.18.2
 openpyxl==3.0.3
 pandas==1.0.3
 PasteDeploy==2.1.0
-Pillow==7.1.1
+Pillow==9.0.0
 plaster==1.0
 plaster-pastedeploy==0.7
 player==0.6.1
